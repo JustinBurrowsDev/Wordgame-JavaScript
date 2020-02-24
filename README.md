@@ -16,4 +16,4 @@ By collaborating with my peers I was able to get a better understanding of how I
 * Received a deeper understanding of jQuery Fundamentals
 
 
-![Game Screen Shot](wordgame Screen Shot.png)
+![Game Screen Shot](wordgameScreenShot.png)
