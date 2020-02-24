@@ -1,0 +1,142 @@
+body {
+    background-color: #0fff;
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+#title {
+    width: 70%;
+}
+
+#title>h1 {
+    font-size: 8em;
+    margin-block-start: 0;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+#gameInstructions {
+    font-size: 130%;
+    margin-top: 25px;
+}
+
+#gameContainer {
+    margin-top: 10px;
+    padding: 60px;
+}
+
+#leftColumn {
+    border: 1px solid #ff3600;
+    padding: 30px;
+    border-radius: 40%;
+    background-color: red;
+}
+
+#rightColumn {
+    border: 1px solid #ff3600;
+    padding: 30px;
+    height: 634px;
+}
+
+#currentWord {
+    text-align: center;
+}
+
+#theWord {
+    font-size: 160%;
+    background-color: #25252580;
+    line-height: 2.5;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#winLose {
+    margin: auto;
+    border: 1px dashed #ff3600;
+    margin-top: 30px;
+}
+
+#wins,
+#losses {
+    height: 40px;
+    font-size: 160%;
+    line-height: 40px;
+}
+
+#remGuesses {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+#guessedLetters {
+    background-color: #ff3600;
+    color: #ffffff;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 20px;
+}
+
+.imgDivs {
+    margin-bottom: 30px;
+    margin-right: 20px;
+    display: inline-block;
+}
+
+#friezaImg {
+    height: 234px;
+}
+
+#krillinImg {
+    height: 234px;
+}
+
+#piccoloImg {
+    height: 234px;
+}
+
+#trunksImg {
+    height: 234px;
+}
+
+#brolyImg {
+    height: 234px;
+}
+
+#gohanImg {
+    height: 234px;
+}
+
+#gohanImg {
+    height: 234px;
+}
+
+#gohanImg {
+    height: 234px;
+}
+
+#gokuImg {
+    height: 234px;
+}
+
+#vegetaImg {
+    height: 234px;
+}
+
+.names {
+    font-size: 70%;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#upsideDown {
+    transform: rotate(180deg);
+}
+
+#song {
+    margin-top: 30px;
+}
