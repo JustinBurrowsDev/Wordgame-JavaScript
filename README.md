@@ -10,10 +10,13 @@ By collaborating with my peers I was able to get a better understanding of how I
 
 ## What Did I Learn? 
 
-* How to implement HTML more efficiently
-* How to manipulate CSS Layouts more efficiently
+* Gain a deeper understanding of JavaScript functions
+* How to understanding and use variable scope 
 * Obtained a deeper understanding of Javascript Fundamentals
 * Received a deeper understanding of jQuery Fundamentals
+* Receive more practice manipulating the DOM 
+* Gained a deeper understanding of using it statements in JavaScript 
+* How to collaborate with my peers more effectively
 
 
 ![Game Screen Shot](wordgameScreenShot.png)
